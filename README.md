@@ -1,3 +1,6 @@
+please here is the default url for the Huddle Landing Page task and Responsive sign up form, I mistakenly submitted the published page links. Thank you
+https://github.com/GiftCode27/Huddle-Landing-Page-1/settings/pages
+
 # CSS-FLEX-GRID-LAYOUT-ZURI-TASK
 Recreated card design
 ▪Built with;
