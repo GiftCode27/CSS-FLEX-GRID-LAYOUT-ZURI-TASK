@@ -1,5 +1,5 @@
 please here is the default url for the Huddle Landing Page task,Responsive sign up form and Flex and Gridbox Task, I mistakenly submitted the published page links. Thank you
-https://github.com/GiftCode27/Huddle-Landing-Page-1/settings/pages
+https://giftcode27.github.io/Huddle-Landing-Page-1/
 
 https://giftcode27.github.io/Sign-up-page/
 
