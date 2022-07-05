@@ -3,7 +3,7 @@ https://github.com/GiftCode27/Huddle-Landing-Page-1/settings/pages
 
 https://github.com/GiftCode27/Sign-up-page/settings/pages
 
-https://github.com/GiftCode27/CSS-FLEX-GRID-LAYOUT-ZURI-TASK/settings/pages
+https://giftcode27.github.io/CSS-FLEX-GRID-LAYOUT-ZURI-TASK/
 
 # CSS-FLEX-GRID-LAYOUT-ZURI-TASK
 Recreated card design
