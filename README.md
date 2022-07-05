@@ -1,7 +1,7 @@
-please here is the default url for the Huddle Landing Page task,Responsive sign up form and Flex and Gridbox Task, I mistakenly submitted the published page links. Thank you
-https://giftcode27.github.io/Huddle-Landing-Page-1/
+Please here is the link to my my hosted github page. Thank you
 
-https://giftcode27.github.io/Sign-up-page/
+
+
 
 https://giftcode27.github.io/CSS-FLEX-GRID-LAYOUT-ZURI-TASK/
 
